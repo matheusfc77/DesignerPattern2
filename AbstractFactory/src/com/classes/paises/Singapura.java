@@ -9,7 +9,7 @@ public class Singapura extends Pais implements IPaisDesenvolvido {
 	}
 	@Override
 	public String exibirInfoDesenvolvido() {
-		return "País desenvlvido: " + super.toString();
+		return "País desenvolvido: " + super.toString();
 	}
 
 }
